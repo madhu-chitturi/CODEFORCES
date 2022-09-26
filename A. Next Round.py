@@ -1,8 +1,5 @@
-                                          A. Next Round
-                                      time limit per test3 seconds
-                                    memory limit per test256 megabytes
-                                          inputstandard input
-                                          outputstandard output
+  '''                                        A. Next Round
+                                      
 "Contestant who earns a score equal to or greater than the k-th place finisher's score will advance to the next round, as long as the contestant earns a positive score..." — an excerpt from contest rules.
 
 A total of n participants took part in the contest (n ≥ k), and you already know their scores. Calculate how many participants will advance to the next round.
@@ -28,7 +25,7 @@ output
 0
 
 
-SOLUTION   <=========PYTHON============>
+SOLUTION   <=========PYTHON============>'''
 
 n,k=map(int,input().strip().split())
 list1=map(int,input().strip().split())
