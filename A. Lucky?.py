@@ -1,4 +1,4 @@
-                                                              A. Lucky?
+'''                                                              A. Lucky?
 
 A ticket is a string consisting of six digits. A ticket is considered lucky if the sum of the first three digits is equal to the sum of the last three digits. Given a ticket, output if it is lucky or not. Note that a ticket can have leading zeroes.
 
@@ -27,7 +27,7 @@ YES
 YES
 NO
 
-SOLUTION <===================PYTHON===================>
+SOLUTION <===================PYTHON===================>'''
 
 t=int(input())
 for k in range(t):
