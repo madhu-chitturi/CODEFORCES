@@ -1,6 +1,5 @@
-                                                                      A. Boy or Girl
-                                                                 time limit per test1 second
-                                                              memory limit per test256 megabytes
+'''                                                                      A. Boy or Girl
+                                                                 
 Those days, many boys use beautiful girls' photos as avatars in forums. So it is pretty hard to tell the gender of a user at the first glance. Last year, our hero went to a forum and had a nice chat with a beauty (he thought so). After that they talked very often and eventually they became a couple in the network.
 
 But yesterday, he came to see "her" in the real world and found out "she" is actually a very strong man! Our hero is very sad and he is too tired to love again now. So he came up with a way to recognize users' genders by their user names.
@@ -24,7 +23,7 @@ output
 IGNORE HIM!
 
 
-SOLUTION <=============PYTHON==============>
+SOLUTION <=============PYTHON==============>'''
 
 a=input()
 b=set(a)
