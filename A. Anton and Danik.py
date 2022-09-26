@@ -1,4 +1,4 @@
-                                                          A. Anton and Danik
+'''                                                          A. Anton and Danik
 
 Anton likes to play chess, and so does his friend Danik.
 
@@ -35,7 +35,7 @@ DADADA
 outputCopy
 Friendship
 
-SOLUTION <===============PYTHON==============>
+SOLUTION <===============PYTHON==============>'''
 
 a=int(input())
 b=input()
