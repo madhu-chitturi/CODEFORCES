@@ -1,4 +1,4 @@
-                                                              A. Bear and Big Brother
+ '''                                                             A. Bear and Big Brother
                                                             time limit per test1 second
                                                           memory limit per test256 megabytes
                                                               inputstandard input
@@ -28,7 +28,7 @@ output
 3
 
 
-SOLUTION<=========PYTHON=============>
+SOLUTION<=========PYTHON=============>  '''
 
 a,b=map(int,input().strip().split())
 c=0
