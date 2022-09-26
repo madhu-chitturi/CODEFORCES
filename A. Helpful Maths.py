@@ -1,4 +1,4 @@
-                                                              A. Helpful Maths
+   '''                                                           A. Helpful Maths
                                                           
 Xenia the beginner mathematician is a third year student at elementary school. She is now learning the addition operation.
 
@@ -23,7 +23,7 @@ output
 1+1+1+3+3 
 
 
-SOLUTION<=========PYTHON=========>
+SOLUTION<=========PYTHON=========>'''
 
 n=list(input())
 c=[]
