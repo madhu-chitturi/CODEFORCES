@@ -1,4 +1,4 @@
-                                                        A. Calculating Function
+  '''                                                      A. Calculating Function
 
 For a positive integer n let's define a function f:
 
@@ -22,7 +22,7 @@ inputCopy
 outputCopy
 -3
 
-SOLUTION <==================PYTHON================>
+SOLUTION <==================PYTHON================>  '''
 
 n=int(input())
 sum=0
