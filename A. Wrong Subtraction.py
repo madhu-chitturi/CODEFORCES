@@ -26,7 +26,7 @@ inputCopy
 outputCopy
 1
 
-SOLUTION <=========PYTHON=============>'''
+SOLUTION <=========PYTHON============>'''
 
 
 n,k=map(int,input().strip().split())
