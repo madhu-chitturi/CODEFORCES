@@ -1,4 +1,4 @@
-                                                        A. In Search of an Easy Problem
+ '''                                                       A. In Search of an Easy Problem
 
 When preparing a tournament, Codeforces coordinators try treir best to make the first problem as easy as possible. This time the coordinator had chosen some problem and asked n people about their opinions. Each person answered whether this problem is easy or hard.
 
@@ -26,7 +26,7 @@ inputCopy
 outputCopy
 EASY
 
-SOLUTION <================PYTHON=======================>
+SOLUTION <================PYTHON=======================>'''
 
 n=int(input())
 c=list(map(int,input().strip().split()))
