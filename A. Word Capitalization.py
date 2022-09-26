@@ -1,4 +1,4 @@
-                                                                A. Word Capitalization
+      '''                                                          A. Word Capitalization
                                                              time limit per test2 seconds
                                                            memory limit per test256 megabytes
                                                                   inputstandard input
@@ -24,7 +24,7 @@ output
 Konjac
 
 
-SOLUTION<=========PYTHON==========>
+SOLUTION<=========PYTHON==========>'''
 
 str1=input()
 li=list(str1)
