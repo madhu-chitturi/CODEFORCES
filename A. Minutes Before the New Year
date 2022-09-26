@@ -30,3 +30,14 @@ outputCopy
 1
 
 SOLUTION <===============PYTHON====================>
+
+
+t=int(input())
+for i in range(t):
+    li=list(map(int,input().strip().split()))
+    a=li[0]
+    b=li[1]
+    c=23-a
+    d=60-b
+    e=(c*60)+d 
+    print(e)
