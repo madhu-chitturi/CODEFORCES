@@ -1,4 +1,4 @@
-                                                            A. Divisibility Problem
+'''                                                            A. Divisibility Problem
 
 You are given two positive integers a and b. In one move you can increase a by 1 (replace a with a+1). Your task is to find the minimum number of moves you need to do in order to make a divisible by b. It is possible, that you have to make 0 moves, as a is already divisible by b. You have to answer t independent test cases.
 
@@ -25,6 +25,30 @@ outputCopy
 333
 0
 
-SOLUTION <==================PYTHON======================>
+SOLUTION <================== C++ ======================>'''
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int t;
+    scanf("%d",&t);
+    while(t--){
+        int a,b,c=0;
+        scanf("%d%d",&a,&b);
+        if(a%b==0){
+            printf("0\n");
+        }
+        else{
+            int w=a%b;
+            printf("%d\n",b-w);
+        }
+        
+    }
+
+    return 0;
+}
 
 
