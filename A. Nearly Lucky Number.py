@@ -1,4 +1,4 @@
-                                                                A. Nearly Lucky Number
+'''                                                                A. Nearly Lucky Number
 
 Petya loves lucky numbers. We all know that lucky numbers are the positive integers whose decimal representations contain only the lucky digits 4 and 7. For example, numbers 47, 744, 4 are lucky and 5, 17, 467 are not.
 
@@ -27,7 +27,7 @@ outputCopy
 NO
 
 
-SOLUTION <================PYTHON====================>
+SOLUTION <================PYTHON====================>'''
 
 n=int(input())
 l=list(map(int,str(n)))
