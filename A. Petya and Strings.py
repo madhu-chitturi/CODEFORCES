@@ -1,8 +1,5 @@
-                                                                A. Petya and Strings
-                                                             time limit per test2 seconds
-                                                             memory limit per test256 megabytes
-                                                                  inputstandard input
-                                                                  outputstandard output
+   '''                                                             A. Petya and Strings
+                                                             
 Little Petya loves presents. His mum bought him two strings of the same size for his birthday. The strings consist of uppercase and lowercase Latin letters. Now Petya wants to compare those two strings lexicographically. The letters' case does not matter, that is an uppercase letter is considered equivalent to the corresponding lowercase letter. Help Petya perform the comparison.
 
 Input
@@ -19,7 +16,7 @@ output
 0
 
 
-SOLUTION <==========PYTHON============>
+SOLUTION <==========PYTHON============>'''
 
 a=input()
 b=input()
