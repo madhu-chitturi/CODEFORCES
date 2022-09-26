@@ -1,4 +1,4 @@
-                                                                              A. YES or YES?
+'''                                                                              A. YES or YES?
 
 There is a string s of length 3, consisting of uppercase and lowercase English letters. Check if it is equal to "YES" (without quotes), where each letter can be in any case. For example, "yES", "Yes", "yes" are all allowable.
 
@@ -37,7 +37,7 @@ NO
 NO
 NO
 
-SOLUTION <=============PYTHON==================>
+SOLUTION <=============PYTHON==================>'''
 
 t=int(input())
 for i in range(t):
