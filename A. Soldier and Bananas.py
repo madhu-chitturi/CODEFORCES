@@ -1,4 +1,4 @@
-                                                            A. Soldier and Bananas
+'''                                                            A. Soldier and Bananas
 
 A soldier wants to buy w bananas in the shop. He has to pay k dollars for the first banana, 2k dollars for the second one and so on (in other words, he has to pay i·k dollars for the i-th banana).
 
@@ -16,7 +16,7 @@ inputCopy
 outputCopy
 13
 
-SOLUTION <==========PYTHON==========>
+SOLUTION <==========PYTHON==========>'''
 
 k,n,w=map(int,input().strip().split())
 s=0
