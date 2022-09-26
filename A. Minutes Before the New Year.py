@@ -1,4 +1,4 @@
-                                                              A. Minutes Before the New Year
+'''                                                              A. Minutes Before the New Year
 
 New Year is coming and you are excited to know how many minutes remain before the New Year. You know that currently the clock shows h hours and m minutes, where 0≤hh<24 and 0≤mm<60. We use 24-hour time format!
 
@@ -29,7 +29,18 @@ outputCopy
 1180
 1
 
-SOLUTION <===============PYTHON====================>
+SOLUTION <===============PYTHON====================>'''
+
+t=int(input())
+for i in range(t):
+    li=list(map(int,input().strip().split()))
+    a=li[0]
+    b=li[1]
+    c=23-a
+    d=60-b
+    e=(c*60)+d 
+    print(e)
+
 
 
 t=int(input())
