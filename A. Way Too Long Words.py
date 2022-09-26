@@ -1,4 +1,4 @@
-/*                                                            A. Way Too Long Words
+'''                                                            A. Way Too Long Words
 time limit per test1 second
 memory limit per test256 megabytes
 inputstandard input
@@ -30,7 +30,22 @@ outputCopy
 word
 l10n
 i18n
-p43s */
+p43s '''
+
+
+SOLUTION <================PYTHON=================>
+
+n = int(input())
+for i in range(n):
+    st = input()
+    l = len(st)
+    if l <= 10:
+        print(st)
+    else:
+        print(st[0], l - 2, st[l - 1], sep="")
+
+
+
 
 SOLUTION <======PYTHON======>
 
